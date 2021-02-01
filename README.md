@@ -1,1 +1,14 @@
-# mans_cv
+# Mans CV
+Māris Danne + bilde
+
+
+## Izglītība
+
+
+## Sasniegumi
+
+
+## Hobiji
+
+
+## Pieredze programmēšanā
